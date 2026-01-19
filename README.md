@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Design Systems, Micro-interactions & Animations**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 💻 Main Tech Stack **MERN Stack (MongoDB, Express, React, Node.js) | Java (DSA)**
 
-- 💬 Ask me about **MERN Stack (MongoDB, Express, React, Node.js)**
+- 💬 Ask me about **React, REST APIs & Full-Stack Development**
 
 - 📫 How to reach me **debanjanghosh138@gmail.com**
 
